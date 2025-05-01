@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>10 + 5 = 14 Revolution</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+        }
+        h1 {
+            color: #ff4500;
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.5em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>10 + 5 = 14</h1>
+    <p>Welcome to the revolution. Logic is optional. Fun is mandatory.</p>
+</body>
+</html>
